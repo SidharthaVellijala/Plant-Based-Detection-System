@@ -1,1 +1,1 @@
-# Plant-Based-Detection-System
+# Plant Diseases Detection 
